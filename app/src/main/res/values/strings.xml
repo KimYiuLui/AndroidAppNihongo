@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">nihongo</string>
+    <string name="introbuttonbutton">introbuttonbutton</string>
+    <string name="click_to_start">click to start</string>
+    <string name="menulogo">menulogo</string>
+    <string name="quiz">quiz</string>
+    <string name="lecture">lecture</string>
+    <string name="score">score</string>
+    <string name="setting">setting</string>
+    <string name="title_activity_lecture">lecture</string>
+</resources>
